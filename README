@@ -1,0 +1,1 @@
+This is a simple tic-tac-toe game implementation with a rearnable AI. Built using QT Creator, but you can build it just by calling "g++ -o tic-tac-toe *.cpp -std=c++11".
